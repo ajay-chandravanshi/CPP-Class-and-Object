@@ -8,7 +8,7 @@ class info
     string id=2
     void display()
     {
-        cout<<rollno<<name;
+        cout<<rollno<<name<<id;
     }
 };
 int main()
