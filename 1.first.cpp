@@ -5,6 +5,7 @@ class info
     public:
     int rollno=1;
     string name="ajay";
+    string 
     void display()
     {
         cout<<rollno<<name;
